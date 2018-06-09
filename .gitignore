@@ -9,6 +9,9 @@
 *.ldf
 *.mdf
 
+#Ignore application data
+/App_Data
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
