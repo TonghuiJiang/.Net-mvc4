@@ -168,7 +168,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
-<<<<<<< HEAD
+<!-- <<<<<<< HEAD
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Global.asax.cs">
@@ -181,7 +181,7 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
-=======
+======= -->
     <Compile Include="Controllers\CustomersController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
@@ -234,7 +234,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap-lumen.css" />
->>>>>>> 7b4cf0e0d6e2c308501e1e370d5a534fa8d257bc
+<!-- >>>>>>> 7b4cf0e0d6e2c308501e1e370d5a534fa8d257bc -->
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="favicon.ico" />
@@ -289,14 +289,14 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
-<<<<<<< HEAD
-=======
+<!-- <<<<<<< HEAD
+======= -->
     <Content Include="Views\Movies\Random.cshtml" />
     <Content Include="Views\Shared\_NavBar.cshtml" />
     <Content Include="Views\Customers\Index.cshtml" />
     <Content Include="Views\Customers\Details.cshtml" />
     <Content Include="Views\Movies\Index.cshtml" />
->>>>>>> 7b4cf0e0d6e2c308501e1e370d5a534fa8d257bc
+<!-- >>>>>>> 7b4cf0e0d6e2c308501e1e370d5a534fa8d257bc -->
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -309,8 +309,8 @@
     <None Include="Project_Readme.html" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
-<<<<<<< HEAD
-=======
+<!-- <<<<<<< HEAD
+======= -->
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201806072133448_InitialModel.resx">
       <DependentUpon>201806072133448_InitialModel.cs</DependentUpon>
@@ -337,7 +337,7 @@
       <DependentUpon>201806090131268_AddBirthdateToCustomer.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
->>>>>>> 7b4cf0e0d6e2c308501e1e370d5a534fa8d257bc
+<!-- >>>>>>> 7b4cf0e0d6e2c308501e1e370d5a534fa8d257bc -->
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
