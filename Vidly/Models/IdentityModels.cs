@@ -20,10 +20,10 @@ namespace Vidly.Models
 
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
-<<<<<<< HEAD
-=======
+
         public DbSet<Customer> Customers { get; set; }
->>>>>>> 7b4cf0e0d6e2c308501e1e370d5a534fa8d257bc
+        public DbSet<Movie> Movies { get; set; }
+
         public ApplicationDbContext()
             : base("DefaultConnection", throwIfV1Schema: false)
         {
