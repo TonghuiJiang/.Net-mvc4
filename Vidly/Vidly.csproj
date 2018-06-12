@@ -314,6 +314,7 @@
     <Content Include="Views\Customers\Details.cshtml" />
     <Content Include="Views\Movies\Index.cshtml" />
     <Content Include="Views\Movies\Details.cshtml" />
+    <Content Include="Views\Customers\New.cshtml" />
     <!-- >>>>>>> 7b4cf0e0d6e2c308501e1e370d5a534fa8d257bc -->
   </ItemGroup>
   <ItemGroup>
